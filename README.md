@@ -6,4 +6,4 @@ I like to talk. Hit me up [here](mailto:bcdionisio@icloud.com).
 
 ### Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=brandondionisio&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brandondionisio&show_icons=true&theme=transparent)
